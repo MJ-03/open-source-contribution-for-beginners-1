@@ -29,7 +29,7 @@ cmd: `git checkout -b <your-new-branch-name>`
 
 to preview all changes.
 use- `git diff `
-
+.
 
 6- Stage the changes
 	use: `git add <your-full-file-name> (with path)`
