@@ -52,5 +52,5 @@ use- `git diff `
 	third: click on create pull request button.
 
 10- Now you just have to wait for the project creator/owner to review your request and merge your changes
-    to the original code. Congratulations on doing your very first contribution to an open source.
+    to the original code. Congratulations on doing your very first contribution to an open source..
 
