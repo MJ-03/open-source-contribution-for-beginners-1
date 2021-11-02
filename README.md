@@ -26,7 +26,7 @@ This repository targets beginners to guide them about open source and help them 
 
 4- Read the repository's contributing guide before starting any editing.
 
-5- Make changes in the contributing branch.
+5- Make changes in the contributing branch..
 
    to preview all changes:
    use- `git diff`
